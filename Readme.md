@@ -1,1 +1,1 @@
-# repojitori -
+# Pull or shuit
